@@ -1,9 +1,13 @@
 import React from 'react'
+import Components from '../compo/Compo';
+import './code.css';
+
+
 
 export default function Home() {
     return (
-        <div>
-            from home
+        <div id='main'>
+            <Components />
         </div>
     )
 }

@@ -1,0 +1,25 @@
+.mainHead {
+    display: flex;
+    max-width: 1000px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 25px;
+    margin-bottom: 45px;
+}
+img.logo {
+    width: 70px;
+    text-align: center;
+}
+.mainTitle {
+    color:#00d9ff;
+    letter-spacing: 1.5px;
+    text-align: center;
+    width: 100%;
+}
+
+.mainTitle span {
+    color: #666666;
+    padding-left: 15px;
+    font-size: 60%;
+}

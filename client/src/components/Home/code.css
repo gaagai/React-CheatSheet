@@ -1,0 +1,29 @@
+.block {
+    color: rgb(65, 180, 225);
+    font-size: 120%;
+    background-color: #272c35;
+    padding: 5px 7px;
+    border-radius: 5px;
+}
+h2.blockTitle {
+    color: rgb(223, 223, 223);
+    letter-spacing: 1.2px;
+}
+pre {
+    margin-top: 0;
+    margin-bottom: 0.7rem;
+    padding-left: 10px;
+    letter-spacing: 1.2px;
+}
+.blue {
+    color: royalblue;
+}
+.pink {
+    color: #e91e63;
+}
+.yellow{
+    color: rgb(251, 255, 0);
+}
+.turq {
+    color: rgb(1, 128, 96);
+}
